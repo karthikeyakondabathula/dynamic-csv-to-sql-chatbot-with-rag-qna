@@ -5,6 +5,8 @@ A full-stack application that converts any CSV into an SQLite database and allow
 - **FastAPI** backend for CSV upload and AI-powered SQL query execution.
 - **React + Vite** frontend with a chat interface and CSV uploader.
 
+![Demo Screenshot](demo.png)
+
 ## 💡 Features
 
 - 📂 Upload CSV files and auto-generate SQLite schemas.
